@@ -8,3 +8,6 @@ Contains the C language implementation of **Johnsons Algorithms** of all-pair sh
 
 ## dag.c
 Contains the C language implementation of **Directed acyclic graph's** of single source shortest paths with negative weights
+
+## naiveStringMatching.c
+Contains the C language implementation of **Naive string Matching**

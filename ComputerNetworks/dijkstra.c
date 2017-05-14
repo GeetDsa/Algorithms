@@ -1,6 +1,5 @@
 #include<stdio.h>
 int A[10][10],D[10],P[10],V,DW[10][10],P2[10][10];
-int bellmanford(int s);
 void dijkstras(int);
 void main()
 {

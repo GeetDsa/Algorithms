@@ -5,7 +5,7 @@
 void main()
 {
 	char rem[50],a[50],s[50],c,msg[50];
-	char gen[]="100010000000100010";
+	char gen[]="100010000000100001";
 
 	int i,genlen,t,j,flag=0,k,n;
 
